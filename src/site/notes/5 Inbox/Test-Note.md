@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-inbox/test-note/","tags":["gardenEntry"],"created":"2024-11-23T12:25:24.800+01:00","updated":"2024-11-23T12:43:47.450+01:00"}
+{"dg-publish":true,"permalink":"/5-inbox/test-note/","created":"2024-11-23T12:25:24.800+01:00","updated":"2024-11-23T12:51:42.158+01:00"}
 ---
 
 # Test-Note
