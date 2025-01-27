@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-server-modding-guide/","created":"2024-11-23T16:51:04.000+01:00","updated":"2025-01-02T18:36:54.146+01:00"}
+{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-server-modding-guide/","created":"2024-11-23T16:51:04.000+01:00","updated":"2025-01-18T21:29:24.894+01:00"}
 ---
 
 # SPT-AKI-FIKA - Server Modding Guide
@@ -86,6 +86,20 @@ F5 - Ingame browser for raid-review, alternatively open http://127.0.0.1:7829/ i
 Sollte es zu einer Mod mehrere Config-Files und Utilities geben, sind diese in einem Unterordner (siehe RaidOverhaulConfig) abzulegen.
 ### Ingame-Settings
 ---
+Anschließend die Ingame-Settings gem. der folgenden Screenshots anpassen.
+*Ggf. sind auf den Screenshots bereits Mod-Settings enthalten, die in der Sektion [[1 Projects/Single Player Tarkov/SPT-AKI-FIKA/SPT-AKI-FIKA - Server Modding Guide#Mod-Installation und -konfiguration\|#Mod-Installation und -konfiguration]] aber nochmal aufgeführt sind.*
+![Pasted image 20250118212445.png](/img/user/6%20System/assets/Pasted%20image%2020250118212445.png)
+![Pasted image 20250118212507.png](/img/user/6%20System/assets/Pasted%20image%2020250118212507.png)
+![Pasted image 20250118212525.png](/img/user/6%20System/assets/Pasted%20image%2020250118212525.png)
+![Pasted image 20250118212547.png](/img/user/6%20System/assets/Pasted%20image%2020250118212547.png)
+![Pasted image 20250118212603.png](/img/user/6%20System/assets/Pasted%20image%2020250118212603.png)
+- Wahlweise können die folgenden oben aufgeführten PostFX-Settings auch aktiviert werden
+![Pasted image 20250118212631.png](/img/user/6%20System/assets/Pasted%20image%2020250118212631.png)
+![Pasted image 20250118212646.png](/img/user/6%20System/assets/Pasted%20image%2020250118212646.png)
+![Pasted image 20250118212713.png](/img/user/6%20System/assets/Pasted%20image%2020250118212713.png)
+![Pasted image 20250118212731.png](/img/user/6%20System/assets/Pasted%20image%2020250118212731.png)
+![Pasted image 20250118212748.png](/img/user/6%20System/assets/Pasted%20image%2020250118212748.png)
+![Pasted image 20250118212801.png](/img/user/6%20System/assets/Pasted%20image%2020250118212801.png)
 ## FIKA Installation
 ---
 ## Mod-Installation und -konfiguration
