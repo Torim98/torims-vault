@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/reading/read-books/","created":"2025-01-30T20:34:20.000+01:00","updated":"2025-01-30T21:26:15.829+01:00"}
+{"dg-publish":true,"permalink":"/1-projects/reading/read-books/","created":"2025-01-30T20:34:20.000+01:00","updated":"2025-01-31T21:22:15.852+01:00"}
 ---
 
 # Read books
 All books I own in status read will be listed here. Also see [[1 Projects/Reading/TBR\|TBR]] for the to be read list and [[1 Projects/Reading/Book database\|Book database]].
-| File | Author | Cover | totalpages | genre | status | rating | type |
-| ---- | ------ | ----- | ---------- | ----- | ------ | ------ | ---- |
+| File                                                                                                                                             | Author                                                                                     | Cover                                                                                                                     | totalpages | genre                                  | status | rating | read               | type |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | ------ | ------ | ------------------ | ---- |
+| [[1 Projects/Reading/Books/1984 - George Orwell\|1984 - George Orwell]]                                                                       | [[1 Projects/Reading/Authors/George Orwell\| George Orwell]]                               | ![\|100](https://m.media-amazon.com/images/I/51VPOr4VNyL._SY466_.jpg)                                                     | 384        | <ul><li>Fiction</li></ul>              | Read   | 10     | February 24, 2019  | Book |
+| [[1 Projects/Reading/Books/Building a Second Brain - Tiago Forte\|Building a Second Brain - Tiago Forte]]                                     | [[1 Projects/Reading/Authors/Tiago Forte\| Tiago Forte]]                                   | ![\|100](https://m.media-amazon.com/images/I/71v8demRl6L._SY466_.jpg)                                                     | 272        | <ul><li>Business & Economics</li></ul> | Read   | 10     | May 16, 2024       | Book |
+| [[1 Projects/Reading/Books/Das Institut - Stephen King\|Das Institut - Stephen King]]                                                         | [[1 Projects/Reading/Authors/Stephen King\| Stephen King]]                                 | ![\|100](https://m.media-amazon.com/images/I/81zPpNVjwZL._SY466_.jpg)                                                     | 768        | <ul><li>Fiction</li></ul>              | Read   | 9      | November 09, 2021  | Book |
+| [[1 Projects/Reading/Books/Handbuch für Zeitreisende - Kathrin Passig Aleks Scholz\|Handbuch für Zeitreisende - Kathrin Passig Aleks Scholz]] | [[1 Projects/Reading/Authors/Kathrin Passig, Aleks Scholz\| Kathrin Passig, Aleks Scholz]] | ![\|100](http://books.google.com/books/content?id=e1DADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 349        | <ul><li>History</li></ul>              | Read   | 9      | September 05, 2023 | Book |
 
 { .block-language-dataview}
 
