@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/1-projects/reading/currently-reading/","created":"2025-02-01T14:01:51.000+01:00","updated":"2025-02-01T14:03:17.844+01:00"}
+---
+
+# Currently reading
+All books I'm currently reading. Also see [[1 Projects/Reading/TBR\|TBR]] for the to be read list, [[1 Projects/Reading/Read books\|Read books]] and [[1 Projects/Reading/Book database\|Book database]].
+| File                                                                                                                                 | Author                                                           | Cover                                                                                                                     | totalpages | genre                     | status  | rating | type |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------- | ------- | ------ | ---- |
+| [[1 Projects/Reading/Books/Das Mädchen und der Winterkönig - Katherine Arden\|Das Mädchen und der Winterkönig - Katherine Arden]] | [[1 Projects/Reading/Authors/Katherine Arden\| Katherine Arden]] | ![\|100](http://books.google.com/books/content?id=MaXbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 480        | <ul><li>Fiction</li></ul> | Reading | \-     | Book |
+
+{ .block-language-dataview}
+
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="15" height="205" version="1.1" viewBox="0 0 39.688 54.24"> <g transform="translate(-69.7 -93.956)" fill="none" stroke="#008000">  <path d="m69.7 146.87h39.688" stroke-width="2.6458"/>  <g transform="translate(-.36252)">   <path d="m89.544 146.87v-6.794" stroke-width="2.6458"/>   <path d="m88.77 141.34 6.6272-8.1886" stroke-width="2.3347"/>   <path d="m89.919 141.46-5.5766-5.8386" stroke-width="2.3102"/>  </g>  <circle cx="100.95" cy="126.47" r="6.9136" stroke-width="2.6458"/>  <circle cx="79.351" cy="130.4" r="5.0854" stroke-width="2.6458"/> </g></svg> #seedling 
