@@ -4,9 +4,8 @@
 
 # Currently reading
 All books I'm currently reading. Also see [[1 Projects/Reading/TBR\|TBR]] for the to be read list, [[1 Projects/Reading/Read books\|Read books]] and [[1 Projects/Reading/Book database\|Book database]].
-| File                                                                                                                                 | Author                                                           | Cover                                                                                                                     | totalpages | genre                     | status  | rating | type |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------- | ------- | ------ | ---- |
-| [[1 Projects/Reading/Books/Das Mädchen und der Winterkönig - Katherine Arden\|Das Mädchen und der Winterkönig - Katherine Arden]] | [[1 Projects/Reading/Authors/Katherine Arden\| Katherine Arden]] | ![\|100](http://books.google.com/books/content?id=MaXbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 480        | <ul><li>Fiction</li></ul> | Reading | \-     | Book |
+| File | Author | Cover | totalpages | genre | status | rating | type |
+| ---- | ------ | ----- | ---------- | ----- | ------ | ------ | ---- |
 
 { .block-language-dataview}
 
