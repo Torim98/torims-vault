@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/reading/currently-reading/","created":"2025-02-01T14:01:51.000+01:00","updated":"2025-02-01T14:03:17.844+01:00"}
+{"dg-publish":true,"permalink":"/1-projects/reading/currently-reading/","created":"2025-02-01T14:01:51.000+01:00","updated":"2025-02-03T20:57:11.845+01:00"}
 ---
 
 # Currently reading
 All books I'm currently reading. Also see [[1 Projects/Reading/TBR\|TBR]] for the to be read list, [[1 Projects/Reading/Read books\|Read books]] and [[1 Projects/Reading/Book database\|Book database]].
-| File | Author | Cover | totalpages | genre | status | rating | type |
-| ---- | ------ | ----- | ---------- | ----- | ------ | ------ | ---- |
+| File                                                                                                                             | Author                                                           | Cover                                                                                                                     | totalpages | genre                     | status  | rating | type |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------- | ------- | ------ | ---- |
+| [[1 Projects/Reading/Books/Die Hexe und der Winterzauber - Katherine Arden\|Die Hexe und der Winterzauber - Katherine Arden]] | [[1 Projects/Reading/Authors/Katherine Arden\| Katherine Arden]] | ![\|100](http://books.google.com/books/content?id=duomEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 528        | <ul><li>Fiction</li></ul> | Reading | \-     | Book |
 
 { .block-language-dataview}
 
