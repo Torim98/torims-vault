@@ -4,9 +4,9 @@
 
 # Currently reading
 All books I'm currently reading. Also see [[1 Projects/Reading/TBR\|TBR]] for the to be read list, [[1 Projects/Reading/Read books\|Read books]] and [[1 Projects/Reading/Book database\|Book database]].
-| File                                                                                                                             | Author                                                           | Cover                                                                                                                     | totalpages | genre                     | status  | rating | type |
-| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------- | ------- | ------ | ---- |
-| [[1 Projects/Reading/Books/Die Hexe und der Winterzauber - Katherine Arden\|Die Hexe und der Winterzauber - Katherine Arden]] | [[1 Projects/Reading/Authors/Katherine Arden\| Katherine Arden]] | ![\|100](http://books.google.com/books/content?id=duomEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 528        | <ul><li>Fiction</li></ul> | Reading | \-     | Book |
+| File                                                                                                                           | Author                                                     | Cover                                                                                                             | totalpages | genre                     | status  | rating | type |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------- | ------- | ------ | ---- |
+| [[1 Projects/Reading/Books/Die Stadt der träumenden Bücher - Walter Moers\|Die Stadt der träumenden Bücher - Walter Moers]] | [[1 Projects/Reading/Authors/Walter Moers\| Walter Moers]] | ![\|100](https://images.lovelybooks.de/img/260x/cover.allsize.lovelybooks.de/9783328107514_1600227180000_xxl.jpg) | 480        | <ul><li>Fiction</li></ul> | Reading | \-     | Book |
 
 { .block-language-dataview}
 
