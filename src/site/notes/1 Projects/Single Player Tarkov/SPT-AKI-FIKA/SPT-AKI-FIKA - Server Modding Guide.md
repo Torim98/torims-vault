@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-server-modding-guide/","created":"2024-11-23T16:51:04.000+01:00","updated":"2025-01-18T21:29:24.894+01:00"}
+{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-server-modding-guide/","created":"2025-01-18T21:29:24.000+01:00","updated":"2025-01-18T21:29:24.000+01:00"}
 ---
 
 # SPT-AKI-FIKA - Server Modding Guide
@@ -72,7 +72,7 @@ Setze im Anschluss in den Tarkov-Settings "Only use physical cores":
 ---
 Lege im Tarkov-Verzeichnis einen CONFIGURATION-Ordner an.
 ![Pasted image 20250102183121.png](/img/user/6%20System/assets/Pasted%20image%2020250102183121.png)
-In diesem Verzeichnis werden alle Modding-Utilities, die in [[1 Projects/Single Player Tarkov/SPT-AKI-FIKA/SPT-AKI-FIKA - Server Modding Guide#Mod-Installation und -konfiguration\|#Mod-Installation und -konfiguration]] installiert werden und zur Konfiguration von Mods verwendet werden, genauso wie wichtige .ini-Files und Kommentare abgelegt.
+In diesem Verzeichnis werden alle Modding-Utilities, die in [[#Mod-Installation und -konfiguration]] installiert werden und zur Konfiguration von Mods verwendet werden, genauso wie wichtige .ini-Files und Kommentare abgelegt.
 ![Pasted image 20250102183320.png](/img/user/6%20System/assets/Pasted%20image%2020250102183320.png)
 *Späterer Aufbau des Verzeichnisses*
 Es biet sich an zunächst die `boot.config` zu verlinken. Gleiches gilt für den profiles-Ordner (liegt unter `EFT-SPT-AKI-FIKA\user\profiles`) indem alle Spielerprofile abliegen. In der `ingame_shortcuts.txt` werden alle Mod-Config-Shortcuts beschrieben.
@@ -87,7 +87,7 @@ Sollte es zu einer Mod mehrere Config-Files und Utilities geben, sind diese in e
 ### Ingame-Settings
 ---
 Anschließend die Ingame-Settings gem. der folgenden Screenshots anpassen.
-*Ggf. sind auf den Screenshots bereits Mod-Settings enthalten, die in der Sektion [[1 Projects/Single Player Tarkov/SPT-AKI-FIKA/SPT-AKI-FIKA - Server Modding Guide#Mod-Installation und -konfiguration\|#Mod-Installation und -konfiguration]] aber nochmal aufgeführt sind.*
+*Ggf. sind auf den Screenshots bereits Mod-Settings enthalten, die in der Sektion [[#Mod-Installation und -konfiguration]] aber nochmal aufgeführt sind.*
 ![Pasted image 20250118212445.png](/img/user/6%20System/assets/Pasted%20image%2020250118212445.png)
 ![Pasted image 20250118212507.png](/img/user/6%20System/assets/Pasted%20image%2020250118212507.png)
 ![Pasted image 20250118212525.png](/img/user/6%20System/assets/Pasted%20image%2020250118212525.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-updating-mods-guide/","created":"2024-11-26T13:27:50.969+01:00","updated":"2024-11-26T13:28:35.625+01:00"}
+{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-updating-mods-guide/","created":"2024-11-26T13:28:35.000+01:00","updated":"2024-11-26T13:28:35.000+01:00"}
 ---
 
 # SPT-AKI-FIKA - Updating Mods Guide

@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/reading/currently-reading/","created":"2025-02-01T14:01:51.000+01:00","updated":"2025-02-03T20:57:11.845+01:00"}
+{"dg-publish":true,"permalink":"/1-projects/reading/currently-reading/","created":"2025-02-03T20:57:11.000+01:00","updated":"2025-09-12T21:32:42.555+02:00"}
 ---
 
 # Currently reading
-All books I'm currently reading. Also see [[1 Projects/Reading/TBR\|TBR]] for the to be read list, [[1 Projects/Reading/Read books\|Read books]] and [[1 Projects/Reading/Book database\|Book database]].
-| File                                                                                                                                                     | Author                                                           | Cover                                                                                                         | totalpages | genre                                 | status  | rating | type |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------- | ------- | ------ | ---- |
-| [[1 Projects/Reading/Books/Die Geschichtensammlerin - Evie Woods\|Die Geschichtensammlerin - Evie Woods]]                                             | [[1 Projects/Reading/Authors/Evie Woods\| Evie Woods]]           | ![\|100](https://media2.hugendubel.de/shop/coverscans/505/50573029_9783985853168_xl.jpg)                      | 320        | <ul><li>Fiction</li></ul>             | Reading | \-     | Book |
-| [[1 Projects/Reading/Books/Die Tribute von Panem L Der Tag bricht an - Suzanne Collins\|Die Tribute von Panem L Der Tag bricht an - Suzanne Collins]] | [[1 Projects/Reading/Authors/Suzanne Collins\| Suzanne Collins]] | ![\|100](https://images.lovelybooks.de/img/260x/cover.allsize.lovelybooks.de/9783751207164_1735807711000.jpg) | 464        | <ul><li>Young Adult Fiction</li></ul> | Reading | \-     | Book |
+All books I'm currently reading. Also see [[1 Projects/Reading/TBR - to be read\|TBR - to be read]] for the to be read list, [[1 Projects/Reading/Read books\|Read books]] and [[1 Projects/Reading/Book database\|Book database]].
+| File                                                                             | Author                                                   | Cover                                                                 | totalpages | genre                     | status  | rating | type |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------- | ---------- | ------------------------- | ------- | ------ | ---- |
+| [[1 Projects/Reading/Books/Die Welle - Morton Rhue\|Die Welle - Morton Rhue]] | [[1 Projects/Reading/Authors/Morton Rhue\| Morton Rhue]] | ![\|100](https://m.media-amazon.com/images/I/81ut8+85aRL._SY466_.jpg) | 192        | <ul><li>Fiction</li></ul> | Reading | \-     | Book |
 
 { .block-language-dataview}
 

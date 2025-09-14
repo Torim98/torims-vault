@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-update-client-guide/","created":"2024-11-24T15:20:29.000+01:00","updated":"2024-11-24T15:20:52.330+01:00"}
+{"dg-publish":true,"permalink":"/1-projects/single-player-tarkov/spt-aki-fika/spt-aki-fika-update-client-guide/","created":"2024-11-24T15:20:52.000+01:00","updated":"2024-11-24T15:20:52.000+01:00"}
 ---
 
 # SPT-AKI-FIKA - Update Client Guide
